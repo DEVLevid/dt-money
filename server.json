@@ -1,20 +1,36 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "desenvolvimento de site",
-            "type": "income",
-            "category": "vendas",
-            "price": 14000,
-            "createdAt": "2024-11-11T17:08:55.085Z"
-        },
-        {
-            "id": 2,
-            "description": "Hamburguer",
-            "type": "outcome",
-            "category": "alimentação",
-            "price": 36,
-            "createdAt": "2024-11-11T17:11:02.472Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": "1",
+      "description": "desenvolvimento de site",
+      "type": "income",
+      "category": "vendas",
+      "price": 14000,
+      "createdAt": "2024-11-11T17:08:55.085Z"
+    },
+    {
+      "id": "2",
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "alimentação",
+      "price": 36,
+      "createdAt": "2024-11-11T17:11:02.472Z"
+    },
+    {
+      "id": "ec9b",
+      "description": "Camiseta Egho cangaceiros ",
+      "type": "outcome",
+      "category": "Vestuario",
+      "price": 290,
+      "createdAt": "2024-11-12T19:42:14.598Z"
+    },
+    {
+      "id": "7a69",
+      "description": "Desenvolvimento de App",
+      "type": "income",
+      "category": "vendas",
+      "price": 25000,
+      "createdAt": "2024-11-12T19:42:25.576Z"
+    }
+  ]
 }
